@@ -10,7 +10,6 @@ use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Vite;
 use Illuminate\Support\ServiceProvider;
-use Override;
 
 final class AppServiceProvider extends ServiceProvider
 {
